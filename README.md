@@ -4,9 +4,9 @@ This is my first project learning Solidity.
 This contract functions as a simple, secure digital bank.
 
 ## Features
-- **Deposit**: Deposits Ether into the contract.
-- **Withdraw**: Withdraws the balance back to the wallet.
-- **Security**: Uses OpenZeppelin ReentrancyGuard.
+- 🗳️**Deposit**: Deposits Ether into the contract.
+- 💰**Withdraw**: Withdraws the balance back to the wallet.
+- 🔒**Security**: Uses OpenZeppelin ReentrancyGuard.
 
 ## How to Use
 1. Open in Remix IDE.
