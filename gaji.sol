@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 // Mengimpor standar keamanan industri
-// Ganti baris import yang lama dengan ini:
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.9.0/contracts/access/Ownable.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.9.0/contracts/security/ReentrancyGuard.sol";
 
