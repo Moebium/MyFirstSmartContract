@@ -3,7 +3,6 @@ pragma solidity ^0.8.0;
 
 // Importing industry security standards
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.9.0/contracts/access/Ownable.sol";
-
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.9.0/contracts/security/ReentrancyGuard.sol";
 
 contract ProBank is Ownable, ReentrancyGuard {
